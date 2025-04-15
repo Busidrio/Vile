@@ -1,0 +1,3 @@
+void setup() do
+	print("Hello World!");
+end
